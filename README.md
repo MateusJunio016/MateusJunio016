@@ -1,7 +1,7 @@
 ## Olá!!! Bem vindo ao perfil de Mateus Miranda 👋
 
 - 🔭 Hoje trabalho como estagiário de desenvolvimento de software
-- 🌱 Atualmente estudando Flutter e React Native
+- 🌱 Atualmente React & React Native
 - 📫 Análise e Desenvolvimento de Sistemas 3/6
 
   <div align="center">
