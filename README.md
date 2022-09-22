@@ -1,6 +1,6 @@
 ## Olá!!! Bem vindo ao perfil de Mateus Miranda 👋
 
-- 🔭 Hoje trabalho como estagiário de desenvolvimento de software
+- 🔭 Hoje trabalho como Analista de Web Analytics
 - 🌱 Atualmente estudando React & React Native
 - 📫 Análise e Desenvolvimento de Sistemas 4/6
 
