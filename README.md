@@ -1,6 +1,6 @@
 ## Olá!!! Bem vindo ao perfil de Mateus Miranda 👋
 
-- 💻 Técnico em Informático para Internet
+- 💻 Técnico em Informática para Internet
 - 📫 Análise e Desenvolvimento de Sistemas 4/6
 - 👨‍💻 Hoje trabalho como Analista de Web Analytics
 - 🌱 Atualmente estudando React & React Native
