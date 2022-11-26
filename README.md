@@ -8,7 +8,8 @@
     <a href="https://github.com/MateusJunio016">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MateusJunio016&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusJunio016&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img align="right" alt="GIF" width="140em" height="140em" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />    
+  
+ 
   </div>
   
   <div style="display: inline_block"><br>
