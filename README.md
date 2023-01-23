@@ -3,7 +3,7 @@
 <h1 align="center"><img height="140em" src="https://github.com/MateusJunio016/imagensPortfolio/blob/main/avataaars.png?raw=true" /> <br><br> Olá!!! Bem vindo ao perfil de Mateus Miranda <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 - 💻 Técnico em Informática para Internet
-- 📫 Análise e Desenvolvimento de Sistemas 4/6
+- 📫 Análise e Desenvolvimento de Sistemas 5/6
 - 👨‍💻 Hoje trabalho como Analista de Web Analytics
 - 🌱 Atualmente estudando React & React Native
 
