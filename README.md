@@ -4,8 +4,9 @@
 
 - 💻 Técnico em Informática para Internet
 - 📫 Análise e Desenvolvimento de Sistemas 5/6
+- :art: Design Gráfico 1/4
 - 👨‍💻 Hoje trabalho como Analista de Web Analytics
-- 🌱 Atualmente estudando React & React Native
+- :rocket: Atualmente estudando React & React Native
 
   <div align="center">
     <a href="https://github.com/MateusJunio016">
