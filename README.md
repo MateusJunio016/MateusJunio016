@@ -4,7 +4,8 @@
 
 - 💻 Técnico em Informática para Internet
 - 📫 Análise e Desenvolvimento de Sistemas 6/6
-- 👨‍💻 Hoje trabalho como Analista de Web Analytics
+- 📫 Inteligência artificial 1/4
+- 👨‍💻 Estudante de desenvolvimento web
 - :rocket: Atualmente estudando React & React Native
 
   <div align="center">
