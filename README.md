@@ -4,7 +4,6 @@
 
 - 💻 Técnico em Informática para Internet
 - 📫 Análise e Desenvolvimento de Sistemas 6/6
-- 📫 Inteligência artificial 1/4
 - 👨‍💻 Estudante de desenvolvimento web
 - :rocket: Atualmente estudando React & React Native
 
