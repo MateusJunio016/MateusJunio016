@@ -4,7 +4,7 @@
 
 - 💻 Técnico em Informática para Internet
 - 📫 Tecnólogo em Análise e Desenvolvimento de Sistemas
-- 👨‍💻 Estudante de desenvolvimento web
+- 👨‍💻 Atuando como Analista de Tecnologia
 - :rocket: Atualmente estudando React & React Native
 
   <div align="center">
