@@ -4,8 +4,9 @@
 
 - 💻 Técnico em Informática para Internet
 - 📫 Tecnólogo em Análise e Desenvolvimento de Sistemas
-- 👨‍💻 Atuando como Analista de Tecnologia
-- :rocket: Atualmente estudando React & React Native
+- 👨‍💻 Atuando como Analista de Dados
+- :rocket: Meu Perfil:
+  • Minha expertise está na implementação de tags em sites de clientes usando Google Tag Manager, criação de extratores automatizados das plataformas de mídias, manipulação de dados em SQL através do Google BigQuery, administração das bases de dados do Google Cloud Platform, e criação e manutenção de Dashboards usando Looker Studio, além da vasta experiência em outros ramos da área de T.I, como consumo e criações de API, desenvolvimento web, manuseio de redes. Além disso, tenho experiência prática com plataformas de mídia como Google Ads, Google Analytics 4, Facebook Ads, TikTok ADS e outras.
 
   <div align="center">
     <a href="https://github.com/MateusJunio016">
